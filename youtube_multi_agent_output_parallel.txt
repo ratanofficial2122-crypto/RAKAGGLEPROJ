@@ -1,0 +1,15 @@
+Video 1:
+  Title: How I Automated My YouTube Channel Using AI
+  Description: This video explains how AI tools automate YouTube workflows.
+  Hashtags: #AI #YouTubeAutomation #ChatGPT #Creators
+
+Video 2:
+  Title: Top 5 AI Tools Every Creator Should Use
+  Description: Learn top AI tools to grow your channel fast!
+  Hashtags: #AITools #YouTubeTips #Automation
+
+Video 3:
+  Title: Make Viral Shorts Using ChatGPT
+  Description: Create viral shorts using powerful AI prompts.
+  Hashtags: #Shorts #ViralVideo #AIShorts
+
