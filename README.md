@@ -20,6 +20,11 @@ Or run locally after installing:
 
 pip install pandas numpy matplotlib python-docx
 
+## Project Video
+
+Watch the full project video on YouTube: [Watch Here](https://youtu.be/Uz4CRuUpbnc)  
+Watch the workflow on YouTube: [Watch Here](https://youtu.be/su-oDGxQdsA)
+
 About
 
 Created by Ratan Agarwal
